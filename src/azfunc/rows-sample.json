@@ -1,0 +1,646 @@
+{
+    "schema": "BigQuery",
+    "table": "Servel",
+    "data": [
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "12.432.234-2",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        },
+        {
+            "CreatedFromProcess": "rows.json",
+            "CreatedByQuery": "6.123.456-9",
+            "domicilio_electoral": "Las Pailas 432",
+            "dv": "2",
+            "glosa_comuna": "Las Condes",
+            "nombre": "Jorge Sutil",
+            "rut": "12432234",
+            "sexo": 0
+        }
+    ]
+}
