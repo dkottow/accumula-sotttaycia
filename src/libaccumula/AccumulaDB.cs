@@ -79,7 +79,8 @@ namespace libaccumula
                     using (SqlCommand command = new SqlCommand(sql, connection))
                     {
                         command.CommandType = CommandType.StoredProcedure;
-                        command.Parameters.AddWithValue("@rows", sqlTable);                        
+                        var param = command.Parameters.AddWithValue("@rows", sqlTable);
+                        param.SqlDbType = SqlDbType.Structured;
                         await command.ExecuteNonQueryAsync();
                     }
                 }
@@ -103,7 +104,7 @@ namespace libaccumula
                 {
                     string sql = @$"SELECT COLUMN_NAME, DATA_TYPE 
                         FROM INFORMATION_SCHEMA.COLUMNS 
-                        WHERE TABLE_NAME = '{table}' and TABLE_SCHEMA = '{schema}'";
+                        WHERE TABLE_NAME = '{table}' and TABLE_SCHEMA = '{schema}' ORDER BY COLUMN_NAME";
                     Console.WriteLine(sql);
 
                     string[] ignoreColumns = { "CreatedOn", "Id" };

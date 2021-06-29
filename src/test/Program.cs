@@ -68,17 +68,18 @@ namespace test
                 table = "Servel"
             };
             table.data = new DataTable();
+            table.data.Columns.Add("CreatedByUser");
             table.data.Columns.Add("CreatedFromProcess");
             table.data.Columns.Add("CreatedByQuery");
-            table.data.Columns.Add("nombre");
-            table.data.Columns.Add("rut");
-            table.data.Columns.Add("dv");
-            table.data.Columns.Add("sexo", typeof(int));
             table.data.Columns.Add("domicilio_electoral");
+            table.data.Columns.Add("dv");
             table.data.Columns.Add("glosa_comuna");
+            table.data.Columns.Add("nombre");
+            table.data.Columns.Add("rut", typeof(int));
+            table.data.Columns.Add("sexo", typeof(int));
 
-            table.data.Rows.Add( new object[] { "Test", "10.562.459-K", "Daniel", "10562459", "k", 1, "Paris 712H", "Santiago" } );
-            table.data.Rows.Add( new object[] { "Test", "10.562.458-1", "Andrea", "10562458", "1", 0, "Portugal 1500", "Santiago" } );
+            table.data.Rows.Add( new object[] { "dkottow@gmail.com", "Test", "10.562.459-K", "Paris 712H", "k", "Santiago", "Daniel", 10562459, 1  } );
+            table.data.Rows.Add( new object[] { "dkottow@gmail.com", "Test", "10.562.458-1", "Portugal 1500", "1", "Santiago", "Andrea", 10562458, 0 } );
 
             Console.WriteLine($"{table.schema}.{table.table} has {table.data.Rows.Count} rows.");
 
